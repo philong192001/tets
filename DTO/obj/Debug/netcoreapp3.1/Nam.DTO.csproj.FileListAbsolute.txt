@@ -1,0 +1,12 @@
+D:\MyProject\DemoProject\DTO\bin\Debug\netcoreapp3.1\Nam.DTO.deps.json
+D:\MyProject\DemoProject\DTO\bin\Debug\netcoreapp3.1\Nam.DTO.dll
+D:\MyProject\DemoProject\DTO\bin\Debug\netcoreapp3.1\Nam.DTO.pdb
+D:\MyProject\DemoProject\DTO\bin\Debug\netcoreapp3.1\Nam.EFCore.dll
+D:\MyProject\DemoProject\DTO\bin\Debug\netcoreapp3.1\Nam.EFCore.pdb
+D:\MyProject\DemoProject\DTO\obj\Debug\netcoreapp3.1\Nam.DTO.csprojAssemblyReference.cache
+D:\MyProject\DemoProject\DTO\obj\Debug\netcoreapp3.1\Nam.DTO.AssemblyInfoInputs.cache
+D:\MyProject\DemoProject\DTO\obj\Debug\netcoreapp3.1\Nam.DTO.AssemblyInfo.cs
+D:\MyProject\DemoProject\DTO\obj\Debug\netcoreapp3.1\Nam.DTO.csproj.CoreCompileInputs.cache
+D:\MyProject\DemoProject\DTO\obj\Debug\netcoreapp3.1\Nam.DTO.csproj.CopyComplete
+D:\MyProject\DemoProject\DTO\obj\Debug\netcoreapp3.1\Nam.DTO.dll
+D:\MyProject\DemoProject\DTO\obj\Debug\netcoreapp3.1\Nam.DTO.pdb

@@ -1,0 +1,16 @@
+D:\MyProject\DemoProject\Nam.DAL\bin\Debug\netcoreapp3.1\Nam.DAL.deps.json
+D:\MyProject\DemoProject\Nam.DAL\bin\Debug\netcoreapp3.1\Nam.DAL.dll
+D:\MyProject\DemoProject\Nam.DAL\bin\Debug\netcoreapp3.1\Nam.DAL.pdb
+D:\MyProject\DemoProject\Nam.DAL\bin\Debug\netcoreapp3.1\Nam.EFCore.dll
+D:\MyProject\DemoProject\Nam.DAL\bin\Debug\netcoreapp3.1\Nam.ULTILS.dll
+D:\MyProject\DemoProject\Nam.DAL\bin\Debug\netcoreapp3.1\Nam.EFCore.pdb
+D:\MyProject\DemoProject\Nam.DAL\bin\Debug\netcoreapp3.1\Nam.ULTILS.pdb
+D:\MyProject\DemoProject\Nam.DAL\obj\Debug\netcoreapp3.1\Nam.DAL.csprojAssemblyReference.cache
+D:\MyProject\DemoProject\Nam.DAL\obj\Debug\netcoreapp3.1\Nam.DAL.AssemblyInfoInputs.cache
+D:\MyProject\DemoProject\Nam.DAL\obj\Debug\netcoreapp3.1\Nam.DAL.AssemblyInfo.cs
+D:\MyProject\DemoProject\Nam.DAL\obj\Debug\netcoreapp3.1\Nam.DAL.csproj.CopyComplete
+D:\MyProject\DemoProject\Nam.DAL\obj\Debug\netcoreapp3.1\Nam.DAL.dll
+D:\MyProject\DemoProject\Nam.DAL\obj\Debug\netcoreapp3.1\Nam.DAL.pdb
+D:\MyProject\DemoProject\Nam.DAL\obj\Debug\netcoreapp3.1\Nam.DAL.csproj.CoreCompileInputs.cache
+D:\MyProject\DemoProject\Nam.DAL\bin\Debug\netcoreapp3.1\Nam.DTO.dll
+D:\MyProject\DemoProject\Nam.DAL\bin\Debug\netcoreapp3.1\Nam.DTO.pdb

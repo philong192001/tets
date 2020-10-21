@@ -1,0 +1,14 @@
+D:\MyProject\DemoProject\Nam.ULTILS\bin\Debug\netcoreapp3.1\Nam.ULTILS.deps.json
+D:\MyProject\DemoProject\Nam.ULTILS\bin\Debug\netcoreapp3.1\Nam.ULTILS.dll
+D:\MyProject\DemoProject\Nam.ULTILS\bin\Debug\netcoreapp3.1\Nam.ULTILS.pdb
+D:\MyProject\DemoProject\Nam.ULTILS\obj\Debug\netcoreapp3.1\Nam.ULTILS.csprojAssemblyReference.cache
+D:\MyProject\DemoProject\Nam.ULTILS\obj\Debug\netcoreapp3.1\Nam.ULTILS.AssemblyInfoInputs.cache
+D:\MyProject\DemoProject\Nam.ULTILS\obj\Debug\netcoreapp3.1\Nam.ULTILS.AssemblyInfo.cs
+D:\MyProject\DemoProject\Nam.ULTILS\obj\Debug\netcoreapp3.1\Nam.ULTILS.dll
+D:\MyProject\DemoProject\Nam.ULTILS\obj\Debug\netcoreapp3.1\Nam.ULTILS.pdb
+D:\MyProject\DemoProject\Nam.ULTILS\bin\Debug\netcoreapp3.1\Nam.EFCore.dll
+D:\MyProject\DemoProject\Nam.ULTILS\bin\Debug\netcoreapp3.1\Nam.EFCore.pdb
+D:\MyProject\DemoProject\Nam.ULTILS\obj\Debug\netcoreapp3.1\Nam.ULTILS.csproj.CopyComplete
+D:\MyProject\DemoProject\Nam.ULTILS\bin\Debug\netcoreapp3.1\Nam.DTO.dll
+D:\MyProject\DemoProject\Nam.ULTILS\bin\Debug\netcoreapp3.1\Nam.DTO.pdb
+D:\MyProject\DemoProject\Nam.ULTILS\obj\Debug\netcoreapp3.1\Nam.ULTILS.csproj.CoreCompileInputs.cache
